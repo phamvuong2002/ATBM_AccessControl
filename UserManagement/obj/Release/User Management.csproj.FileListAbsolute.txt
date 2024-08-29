@@ -1,0 +1,46 @@
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\fLogin.cs
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\fLogin.Designer.cs
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\User Management.exe.config
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\User Management.exe
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\User Management.pdb
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\EntityFramework.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Buffers.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Memory.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Text.Json.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.ValueTuple.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\EntityFramework.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Buffers.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Memory.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Text.Json.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Release\System.ValueTuple.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\User Management.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\User Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\WindowsFormsApp1.DetailPrivileges.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\User_Management.fLogin.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\User_Management.fDetail.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\User_Management.fUserManagement.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\WindowsFormsApp1.GrantPrivileges.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\User_Management.Properties.Resources.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\QLNV_TXS.RevokeUser.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\QLNV_TXS.Role.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\oraclecsharp.GridViewPrivs.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\QLNV_TXS.User.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\User Management.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\User Management.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\User Management.csproj.CopyComplete
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\User Management.exe
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Release\User Management.pdb

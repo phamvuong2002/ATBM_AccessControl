@@ -1,0 +1,262 @@
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\fLogin.cs
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\fLogin.Designer.cs
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\User Management.exe.config
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\User Management.exe
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\User Management.pdb
+D:\AT&BMDL_HTTT\TH\project\User Management\obj\Debug\User Management.csproj.AssemblyReference.cache
+D:\AT&BMDL_HTTT\TH\project\User Management\obj\Debug\User Management.csproj.SuggestedBindingRedirects.cache
+D:\AT&BMDL_HTTT\TH\project\User Management\obj\Debug\User_Management.fLogin.resources
+D:\AT&BMDL_HTTT\TH\project\User Management\obj\Debug\User_Management.Properties.Resources.resources
+D:\AT&BMDL_HTTT\TH\project\User Management\obj\Debug\User Management.csproj.GenerateResource.cache
+D:\AT&BMDL_HTTT\TH\project\User Management\obj\Debug\User Management.csproj.CoreCompileInputs.cache
+D:\AT&BMDL_HTTT\TH\project\User Management\obj\Debug\User Management.exe
+D:\AT&BMDL_HTTT\TH\project\User Management\obj\Debug\User Management.pdb
+D:\AT&BMDL_HTTT\TH\project\User Management\obj\Debug\User_Management.fUserManagement.resources
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\EntityFramework.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\EntityFramework.SqlServer.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Buffers.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Memory.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Numerics.Vectors.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Text.Encodings.Web.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Text.Json.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.ValueTuple.dll
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\EntityFramework.xml
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\EntityFramework.SqlServer.xml
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Buffers.xml
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Memory.xml
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Numerics.Vectors.xml
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Text.Encodings.Web.xml
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Text.Json.xml
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AT&BMDL_HTTT\TH\project\User Management\bin\Debug\System.ValueTuple.xml
+D:\AT&BMDL_HTTT\TH\project\User Management\obj\Debug\User Management.csproj.CopyComplete
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\fLogin.cs
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\fLogin.Designer.cs
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\User Management.exe.config
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\User Management.exe
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\User Management.pdb
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\EntityFramework.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Buffers.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Memory.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Text.Json.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\EntityFramework.xml
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Buffers.xml
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Memory.xml
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Text.Json.xml
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\phucp\Desktop\UserManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\phucp\Desktop\UserManagement\obj\Debug\User Management.csproj.AssemblyReference.cache
+C:\Users\phucp\Desktop\UserManagement\obj\Debug\User Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\phucp\Desktop\UserManagement\obj\Debug\User_Management.fLogin.resources
+C:\Users\phucp\Desktop\UserManagement\obj\Debug\User_Management.fUserManagement.resources
+C:\Users\phucp\Desktop\UserManagement\obj\Debug\User_Management.Properties.Resources.resources
+C:\Users\phucp\Desktop\UserManagement\obj\Debug\User Management.csproj.GenerateResource.cache
+C:\Users\phucp\Desktop\UserManagement\obj\Debug\User Management.csproj.CoreCompileInputs.cache
+C:\Users\phucp\Desktop\UserManagement\obj\Debug\User Management.csproj.CopyComplete
+C:\Users\phucp\Desktop\UserManagement\obj\Debug\User Management.exe
+C:\Users\phucp\Desktop\UserManagement\obj\Debug\User Management.pdb
+C:\Users\phucp\Desktop\UserManagement\obj\Debug\User_Management.fDetail.resources
+D:\DAATBM\UserManagement\bin\Debug\fLogin.cs
+D:\DAATBM\UserManagement\bin\Debug\fLogin.Designer.cs
+D:\DAATBM\UserManagement\bin\Debug\User Management.exe.config
+D:\DAATBM\UserManagement\bin\Debug\User Management.exe
+D:\DAATBM\UserManagement\bin\Debug\User Management.pdb
+D:\DAATBM\UserManagement\bin\Debug\EntityFramework.dll
+D:\DAATBM\UserManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\DAATBM\UserManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DAATBM\UserManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\DAATBM\UserManagement\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\DAATBM\UserManagement\bin\Debug\System.Buffers.dll
+D:\DAATBM\UserManagement\bin\Debug\System.Memory.dll
+D:\DAATBM\UserManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\DAATBM\UserManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DAATBM\UserManagement\bin\Debug\System.Text.Encodings.Web.dll
+D:\DAATBM\UserManagement\bin\Debug\System.Text.Json.dll
+D:\DAATBM\UserManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DAATBM\UserManagement\bin\Debug\System.ValueTuple.dll
+D:\DAATBM\UserManagement\bin\Debug\EntityFramework.xml
+D:\DAATBM\UserManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\DAATBM\UserManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DAATBM\UserManagement\bin\Debug\System.Buffers.xml
+D:\DAATBM\UserManagement\bin\Debug\System.Memory.xml
+D:\DAATBM\UserManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\DAATBM\UserManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DAATBM\UserManagement\bin\Debug\System.Text.Encodings.Web.xml
+D:\DAATBM\UserManagement\bin\Debug\System.Text.Json.xml
+D:\DAATBM\UserManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DAATBM\UserManagement\bin\Debug\System.ValueTuple.xml
+D:\DAATBM\UserManagement\obj\Debug\User Management.csproj.AssemblyReference.cache
+D:\DAATBM\UserManagement\obj\Debug\User Management.csproj.SuggestedBindingRedirects.cache
+D:\DAATBM\UserManagement\obj\Debug\User_Management.fLogin.resources
+D:\DAATBM\UserManagement\obj\Debug\User_Management.fDetail.resources
+D:\DAATBM\UserManagement\obj\Debug\User_Management.fUserManagement.resources
+D:\DAATBM\UserManagement\obj\Debug\User_Management.Properties.Resources.resources
+D:\DAATBM\UserManagement\obj\Debug\User Management.csproj.GenerateResource.cache
+D:\DAATBM\UserManagement\obj\Debug\User Management.csproj.CoreCompileInputs.cache
+D:\DAATBM\UserManagement\obj\Debug\User Management.csproj.CopyComplete
+D:\DAATBM\UserManagement\obj\Debug\User Management.exe
+D:\DAATBM\UserManagement\obj\Debug\User Management.pdb
+D:\DAATBM\UserManagement\obj\Debug\QLNV_TXS.User.resources
+D:\DAATBM\UserManagement\obj\Debug\QLNV_TXS.Role.resources
+D:\DAATBM\UserManagement\obj\Debug\WindowsFormsApp1.GrantPrivileges.resources
+D:\DAATBM\UserManagement\obj\Debug\WindowsFormsApp1.DetailPrivileges.resources
+D:\DAATBM\UserManagement\obj\Debug\QLNV_TXS.RevokeUser.resources
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\fLogin.cs
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\fLogin.Designer.cs
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\User Management.exe.config
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\User Management.exe
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\User Management.pdb
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\EntityFramework.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Buffers.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Memory.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Text.Encodings.Web.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Text.Json.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.ValueTuple.dll
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\EntityFramework.xml
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Buffers.xml
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Memory.xml
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Text.Encodings.Web.xml
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Text.Json.xml
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\bin\Debug\System.ValueTuple.xml
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\User Management.csproj.AssemblyReference.cache
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\User Management.csproj.SuggestedBindingRedirects.cache
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\WindowsFormsApp1.DetailPrivileges.resources
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\User_Management.fLogin.resources
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\User_Management.fDetail.resources
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\User_Management.fUserManagement.resources
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\WindowsFormsApp1.GrantPrivileges.resources
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\User_Management.Properties.Resources.resources
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\QLNV_TXS.RevokeUser.resources
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\QLNV_TXS.Role.resources
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\oraclecsharp.GridViewPrivs.resources
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\QLNV_TXS.User.resources
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\User Management.csproj.GenerateResource.cache
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\User Management.csproj.CoreCompileInputs.cache
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\User Management.csproj.CopyComplete
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\User Management.exe
+D:\Đồ Án An toàn Bảo Mật\ATBM_HCMUS\UserManagement\obj\Debug\User Management.pdb
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\fLogin.cs
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\fLogin.Designer.cs
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\User Management.exe.config
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\User Management.exe
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\User Management.pdb
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\EntityFramework.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Buffers.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Memory.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Text.Json.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\EntityFramework.xml
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Buffers.xml
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Memory.xml
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Text.Json.xml
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\phucp\Desktop\ATBM\UserManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\User Management.csproj.AssemblyReference.cache
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\User Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\WindowsFormsApp1.DetailPrivileges.resources
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\User_Management.fLogin.resources
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\User_Management.fDetail.resources
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\User_Management.fUserManagement.resources
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\WindowsFormsApp1.GrantPrivileges.resources
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\User_Management.Properties.Resources.resources
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\QLNV_TXS.RevokeUser.resources
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\QLNV_TXS.Role.resources
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\oraclecsharp.GridViewPrivs.resources
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\QLNV_TXS.User.resources
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\User Management.csproj.GenerateResource.cache
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\User Management.csproj.CoreCompileInputs.cache
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\User Management.csproj.CopyComplete
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\User Management.exe
+C:\Users\phucp\Desktop\ATBM\UserManagement\obj\Debug\User Management.pdb
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\fLogin.cs
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\fLogin.Designer.cs
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\User Management.exe.config
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\User Management.exe
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\User Management.pdb
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Buffers.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Memory.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Text.Json.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Buffers.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Memory.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Text.Json.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\User Management.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\User Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\WindowsFormsApp1.DetailPrivileges.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\User_Management.fLogin.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\User_Management.fDetail.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\User_Management.fUserManagement.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\WindowsFormsApp1.GrantPrivileges.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\User_Management.Properties.Resources.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\QLNV_TXS.RevokeUser.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\QLNV_TXS.Role.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\oraclecsharp.GridViewPrivs.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\QLNV_TXS.User.resources
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\User Management.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\User Management.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\User Management.csproj.CopyComplete
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\User Management.exe
+C:\Users\ACER\Desktop\ATBM\UserManagement\obj\Debug\User Management.pdb
